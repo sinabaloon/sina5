@@ -224,7 +224,7 @@ function create_config( )
    "super"
 
     },
-    sudo_users = {your id},--Sudo users
+    sudo_users = {192658394},--Sudo users
     DiMoN = {268968457},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
